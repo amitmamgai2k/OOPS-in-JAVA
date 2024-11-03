@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question14",
+      "request": "launch",
+      "mainClass": "Question14",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "FrameMouseEventsExample",
+      "request": "launch",
+      "mainClass": "FrameMouseEventsExample",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "MouseEventsExample",
+      "request": "launch",
+      "mainClass": "MouseEventsExample",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "MouseEventFrame",
+      "request": "launch",
+      "mainClass": "MouseEventFrame",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "RectangleChecker",
+      "request": "launch",
+      "mainClass": "RectangleChecker",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "RectangleMouseCheck",
+      "request": "launch",
+      "mainClass": "RectangleMouseCheck",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "Question13",
+      "request": "launch",
+      "mainClass": "Question13",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
+      "name": "Question12",
+      "request": "launch",
+      "mainClass": "Question12",
+      "projectName": "Java_e26c2649"
+    },
+    {
+      "type": "java",
       "name": "Question6",
       "request": "launch",
       "mainClass": "Question6",
